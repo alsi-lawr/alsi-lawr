@@ -7,12 +7,8 @@
 
   <br>
 
-  <a href="https://github.com/alsi-lawr?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/alsi-lawr?style=flat-square&label=followers"></a>
-  <img alt="Neovim" src="https://img.shields.io/badge/Neovim-0F7B0F?style=flat-square&logo=neovim&logoColor=white">
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-  <img alt="F sharp" src="https://img.shields.io/badge/F%23-378BBA?style=flat-square&logo=fsharp&logoColor=white">
-  <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white">
-  <img alt="Nix" src="https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white">
+<a href="https://github.com/alsi-lawr?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/alsi-lawr?style=flat-square&label=followers"></a> <img alt="Neovim" src="https://img.shields.io/badge/Neovim-0F7B0F?style=flat-square&logo=neovim&logoColor=white"> <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"> <img alt="F sharp" src="https://img.shields.io/badge/F%23-378BBA?style=flat-square&logo=fsharp&logoColor=white"> <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"> <img alt="Nix" src="https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white">
+
 </div>
 
 ## Languages
@@ -37,6 +33,15 @@
       <p><code>Lua</code> <code>Neovim</code> <code>coding agents</code></p>
     </td>
     <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/alsi-lawr/neotheme.nvim">
+          <img
+            src="https://raw.githubusercontent.com/alsi-lawr/neotheme.nvim/master/docs/assets/neotheme.svg"
+            height="72"
+            alt="Neotheme logo"
+          >
+        </a>
+      </p>
       <h3><a href="https://github.com/alsi-lawr/neotheme.nvim">neotheme.nvim</a></h3>
       <p>A semantic, palette-driven Neovim colorscheme with a visual theme browser, persistent palette editor, and reproducible previews.</p>
       <p><code>Lua</code> <code>Neovim</code> <code>design systems</code></p>
@@ -44,6 +49,15 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/alsi-lawr/Viset">
+          <img
+            src="https://raw.githubusercontent.com/alsi-lawr/Viset/main/docs/assets/viset-logo.svg"
+            height="72"
+            alt="Viset logo"
+          >
+        </a>
+      </p>
       <h3><a href="https://github.com/alsi-lawr/Viset">Viset</a></h3>
       <p>Browser screenshots and animated WebP captures as code, with device and theme matrices, direct file ownership, and reproducible execution.</p>
       <p><code>F#</code> <code>.NET</code> <code>Lua</code> <code>Nix</code></p>
@@ -61,6 +75,15 @@
       <p><code>Python</code> <code>SQLite</code> <code>local-first</code></p>
     </td>
     <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/alsi-lawr/phrasic">
+          <img
+            src="https://raw.githubusercontent.com/alsi-lawr/phrasic/master/public/favicon.svg"
+            height="72"
+            alt="Phrasic logo"
+          >
+        </a>
+      </p>
       <h3><a href="https://github.com/alsi-lawr/phrasic">Phrasic</a></h3>
       <p>A provider-neutral, browser-only now-playing display with responsive visuals, accessible motion, and explicit connection states.</p>
       <p><code>TypeScript</code> <code>browser</code> <code>Docker</code></p>
@@ -68,6 +91,15 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/alsi-lawr/BlokeBot">
+          <img
+            src="https://raw.githubusercontent.com/alsi-lawr/BlokeBot/master/assets/blokebot-banner.svg"
+            width="280"
+            alt="BlokeBot banner"
+          >
+        </a>
+      </p>
       <h3><a href="https://github.com/alsi-lawr/BlokeBot">BlokeBot</a></h3>
       <p>A self-hosted Twitch bot and dashboard for commands, games, points, giveaways, and managing multiple channels.</p>
       <p><code>self-hosted</code> <code>Twitch</code> <code>Nix</code></p>
