@@ -28,109 +28,212 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/alsi-lawr/termin.al">
+          <img
+            src="https://raw.githubusercontent.com/alsi-lawr/termin.al/master/docs/assets/termin-al-logo.webp"
+            width="100%"
+            alt="termin.al logo"
+          >
+        </a>
+      </p>
+      <h3><a href="https://github.com/alsi-lawr/termin.al">termin.al</a></h3>
+      <p>A terminal-shaped portfolio for exploring<br>projects, writing, activity, and more through<br>a browser-based virtual shell.</p>
+      <p><code>TypeScript</code> <code>F#</code> <code>browser shell</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/alsi-lawr/agent-term.nvim">
+          <img
+            src="https://raw.githubusercontent.com/alsi-lawr/agent-term.nvim/master/assets/agent-term-social.png"
+            width="100%"
+            alt="agent-term.nvim social card"
+          >
+        </a>
+      </p>
       <h3><a href="https://github.com/alsi-lawr/agent-term.nvim">agent-term.nvim</a></h3>
-      <p>Persistent terminal coding-agent sessions inside Neovim, with float and panel views, agent switching, and editor-context helpers.</p>
+      <p>Persistent terminal coding-agent sessions<br>inside Neovim, with flexible views, switching,<br>and editor-context helpers.</p>
       <p><code>Lua</code> <code>Neovim</code> <code>coding agents</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <p align="center">
         <a href="https://github.com/alsi-lawr/neotheme.nvim">
           <img
-            src="https://raw.githubusercontent.com/alsi-lawr/neotheme.nvim/master/docs/assets/neotheme.svg"
-            height="72"
-            alt="Neotheme logo"
+            src="https://raw.githubusercontent.com/alsi-lawr/neotheme.nvim/master/docs/assets/neotheme-social.png"
+            width="100%"
+            alt="Neotheme social card"
           >
         </a>
       </p>
       <h3><a href="https://github.com/alsi-lawr/neotheme.nvim">neotheme.nvim</a></h3>
-      <p>A semantic, palette-driven Neovim colorscheme with a visual theme browser, persistent palette editor, and reproducible previews.</p>
+      <p>A semantic, palette-driven Neovim colorscheme<br>with a visual browser, persistent palette editor,<br>and reproducible previews.</p>
       <p><code>Lua</code> <code>Neovim</code> <code>design systems</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/getviset/Viset">
+          <img
+            src="https://raw.githubusercontent.com/getviset/Viset/main/docs/assets/viset-social.png"
+            width="100%"
+            alt="Viset social card"
+          >
+        </a>
+      </p>
+      <h3><a href="https://github.com/getviset/Viset">Viset</a></h3>
+      <p>Browser screenshots and animated WebP captures<br>as code, with device and theme matrices,<br>direct ownership, and reproducible execution.</p>
+      <p><code>F#</code> <code>.NET</code> <code>capture tooling</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p align="center">
-        <a href="https://github.com/alsi-lawr/Viset">
+        <a href="https://github.com/alsi-lawr/HUMANS.md">
           <img
-            src="https://raw.githubusercontent.com/alsi-lawr/Viset/main/docs/assets/viset-logo.svg"
-            height="72"
-            alt="Viset logo"
+            src="https://raw.githubusercontent.com/alsi-lawr/HUMANS.md/master/assets/humans-md-social.png"
+            width="100%"
+            alt="HUMANS.md social card"
           >
         </a>
       </p>
-      <h3><a href="https://github.com/alsi-lawr/Viset">Viset</a></h3>
-      <p>Browser screenshots and animated WebP captures as code, with device and theme matrices, direct file ownership, and reproducible execution.</p>
-      <p><code>F#</code> <code>.NET</code> <code>Lua</code> <code>Nix</code></p>
+      <h3><a href="https://github.com/alsi-lawr/HUMANS.md">HUMANS.md</a></h3>
+      <p>Coding-agent contracts, governed Casefile<br>workflows, and reusable engineering guidance<br>as independently installable plugins.</p>
+      <p><code>agents</code> <code>workflows</code> <code>governance</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/alsi-lawr/HUMANS.md">HUMANS.md</a></h3>
-      <p>A plugin suite for standing coding-agent contracts, governed Casefile workflows, and reusable engineering guidance.</p>
-      <p><code>agents</code> <code>workflows</code> <code>governance</code></p>
+      <p align="center">
+        <a href="https://github.com/alsi-lawr/chatgpt-analysis">
+          <img
+            src="https://raw.githubusercontent.com/alsi-lawr/chatgpt-analysis/master/assets/chatgpt-analysis-social.png"
+            width="100%"
+            alt="ChatGPT Export Analysis social card"
+          >
+        </a>
+      </p>
+      <h3><a href="https://github.com/alsi-lawr/chatgpt-analysis">ChatGPT Export Analysis</a></h3>
+      <p>A local-first pipeline that turns ChatGPT exports<br>into a reproducible, queryable analysis corpus<br>with evidence linked back to source turns.</p>
+      <p><code>Python</code> <code>SQLite</code> <code>local-first</code></p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/alsi-lawr/chatgpt-analysis">ChatGPT Export Analysis</a></h3>
-      <p>A local-first pipeline that turns ChatGPT exports into a reproducible, queryable, evidence-linked analysis corpus.</p>
-      <p><code>Python</code> <code>SQLite</code> <code>local-first</code></p>
-    </td>
     <td width="50%" valign="top">
       <p align="center">
         <a href="https://github.com/alsi-lawr/phrasic">
           <img
-            src="https://raw.githubusercontent.com/alsi-lawr/phrasic/master/public/favicon.svg"
-            height="72"
-            alt="Phrasic logo"
+            src="https://raw.githubusercontent.com/alsi-lawr/phrasic/master/assets/phrasic-social.png"
+            width="100%"
+            alt="Phrasic social card"
           >
         </a>
       </p>
       <h3><a href="https://github.com/alsi-lawr/phrasic">Phrasic</a></h3>
-      <p>A provider-neutral, browser-only now-playing display with responsive visuals, accessible motion, and explicit connection states.</p>
+      <p>A provider-neutral, browser-only now-playing<br>display with responsive visuals, accessible<br>motion, and explicit connection states.</p>
       <p><code>TypeScript</code> <code>browser</code> <code>Docker</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/alsi-lawr/BlokeBot">
+          <img
+            src="https://raw.githubusercontent.com/alsi-lawr/BlokeBot/master/assets/blokebot-social.png"
+            width="100%"
+            alt="BlokeBot social card"
+          >
+        </a>
+      </p>
+      <h3><a href="https://github.com/alsi-lawr/BlokeBot">BlokeBot</a></h3>
+      <p>A self-hosted Twitch bot and dashboard for<br>commands, games, points, giveaways, and<br>managing multiple channels.</p>
+      <p><code>self-hosted</code> <code>Twitch</code> <code>Nix</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <p align="center">
-        <a href="https://github.com/alsi-lawr/BlokeBot">
+        <a href="https://github.com/alsi-lawr/alsi.caseconversions">
           <img
-            src="https://raw.githubusercontent.com/alsi-lawr/BlokeBot/master/assets/blokebot-banner.svg"
-            width="280"
-            alt="BlokeBot banner"
+            src="https://raw.githubusercontent.com/alsi-lawr/alsi.caseconversions/master/assets/alsi-caseconversions-social.png"
+            width="100%"
+            alt="ALSI.CaseConversions social card"
           >
         </a>
       </p>
-      <h3><a href="https://github.com/alsi-lawr/BlokeBot">BlokeBot</a></h3>
-      <p>A self-hosted Twitch bot and dashboard for commands, games, points, giveaways, and managing multiple channels.</p>
-      <p><code>self-hosted</code> <code>Twitch</code> <code>Nix</code></p>
-    </td>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/alsi-lawr/alsi.caseconversions">ALSI.CaseConversions</a></h3>
-      <p>Small, allocation-conscious .NET string case conversion for identifiers, keys, generated names, and application boundaries.</p>
+      <p>Small, allocation-conscious .NET string case<br>conversion for identifiers, keys, generated<br>names, and application boundaries.</p>
       <p><code>C#</code> <code>NuGet</code> <code>performance</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/alsi-lawr/dotnet-cli-plus">
+          <img
+            src="https://raw.githubusercontent.com/alsi-lawr/dotnet-cli-plus/master/assets/dotnet-cli-plus-social.png"
+            width="100%"
+            alt="dotnet-cli-plus social card"
+          >
+        </a>
+      </p>
       <h3><a href="https://github.com/alsi-lawr/dotnet-cli-plus">dotnet-cli-plus</a></h3>
-      <p>Additional .NET solution operations not covered by the standard CLI, including nested folder imports for both <code>.sln</code> and <code>.slnx</code>.</p>
+      <p>Additional .NET solution operations beyond<br>the standard CLI, including nested imports for<br>both <code>.sln</code> and <code>.slnx</code> solutions.</p>
       <p><code>C#</code> <code>.NET tool</code> <code>SLNX</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/alsi-lawr/gruber-darker-vs">Gruber Darker for Visual Studio</a></h3>
-      <p>A native Visual Studio 2022 theme mapping the Gruber Darker palette across syntax, editor UI, tool windows, and shell chrome.</p>
+      <p align="center">
+        <a href="https://github.com/alsi-lawr/gruber-darker-vs">
+          <img
+            src="https://raw.githubusercontent.com/alsi-lawr/gruber-darker-vs/master/docs/images/gruber-darker-vs-social.png"
+            width="100%"
+            alt="Gruber Darker VS social card"
+          >
+        </a>
+      </p>
+      <h3><a href="https://github.com/alsi-lawr/gruber-darker-vs">Gruber Darker VS</a></h3>
+      <p>A native Visual Studio 2022 theme mapping the<br>Gruber Darker palette across syntax, editor UI,<br>tool windows, and shell chrome.</p>
       <p><code>Visual Studio</code> <code>VSIX</code> <code>theme tooling</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/alsi-lawr/deploy-nuget">
+          <img
+            src="https://raw.githubusercontent.com/alsi-lawr/deploy-nuget/master/assets/deploy-nuget-social.png"
+            width="100%"
+            alt="deploy-nuget social card"
+          >
+        </a>
+      </p>
+      <h3><a href="https://github.com/alsi-lawr/deploy-nuget">deploy-nuget</a></h3>
+      <p>A reusable GitHub Action for building, packing,<br>and publishing NuGet packages through a<br>consistent, configurable release path.</p>
+      <p><code>GitHub Actions</code> <code>NuGet</code> <code>CI/CD</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Reusable .NET delivery tooling</h3>
-      <p>
-        <a href="https://github.com/alsi-lawr/deploy-nuget">deploy-nuget</a> ·
-        <a href="https://github.com/alsi-lawr/dotnet-test-coverlet">dotnet-test-coverlet</a> ·
-        <a href="https://github.com/alsi-lawr/package-release-workflows">package-release-workflows</a>
+      <p align="center">
+        <a href="https://github.com/alsi-lawr/dotnet-test-coverlet">
+          <img
+            src="https://raw.githubusercontent.com/alsi-lawr/dotnet-test-coverlet/master/assets/dotnet-test-coverlet-social.png"
+            width="100%"
+            alt="dotnet-test-coverlet social card"
+          >
+        </a>
       </p>
-      <p><code>GitHub Actions</code> <code>NuGet</code> <code>CI/CD</code></p>
+      <h3><a href="https://github.com/alsi-lawr/dotnet-test-coverlet">dotnet-test-coverlet</a></h3>
+      <p>A reusable action that runs .NET tests and<br>generates coverage with configurable exclusions,<br>SDK versions, and a minimum threshold.</p>
+      <p><code>GitHub Actions</code> <code>.NET</code> <code>coverage</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/alsi-lawr/package-release-workflows">
+          <img
+            src="https://raw.githubusercontent.com/alsi-lawr/package-release-workflows/main/assets/package-release-workflows-social.png"
+            width="100%"
+            alt="package-release-workflows social card"
+          >
+        </a>
+      </p>
+      <h3><a href="https://github.com/alsi-lawr/package-release-workflows">Package Release Workflows</a></h3>
+      <p>Reusable workflows for reproducible .NET release<br>packaging and delivery across archives, registries,<br>package managers, and container channels.</p>
+      <p><code>GitHub Actions</code> <code>releases</code> <code>packages</code></p>
     </td>
   </tr>
 </table>
