@@ -163,17 +163,17 @@
     </td>
     <td width="50%" valign="top">
       <p align="center">
-        <a href="https://github.com/alsi-lawr/dotnet-cli-plus">
+        <a href="https://github.com/alsi-lawr/dotnet-workspace-explorer">
           <img
-            src="https://raw.githubusercontent.com/alsi-lawr/dotnet-cli-plus/master/assets/dotnet-cli-plus-social.png"
+            src="https://raw.githubusercontent.com/alsi-lawr/dotnet-workspace-explorer/master/assets/dotnet-workspace-explorer-social.png"
             width="100%"
-            alt="dotnet-cli-plus social card"
+            alt="dotnet-workspace-explorer social card"
           >
         </a>
       </p>
-      <h3><a href="https://github.com/alsi-lawr/dotnet-cli-plus">dotnet-cli-plus</a></h3>
-      <p>Additional .NET solution operations beyond<br>the standard CLI, including nested imports for<br>both <code>.sln</code> and <code>.slnx</code> solutions.</p>
-      <p><code>C#</code> <code>.NET tool</code> <code>SLNX</code></p>
+      <h3><a href="https://github.com/alsi-lawr/dotnet-workspace-explorer">dotnet-workspace-explorer</a></h3>
+      <p>Language-agnostic .NET solution and project<br>operations, with direct commands and a versioned<br>MessagePack-RPC workspace endpoint.</p>
+      <p><code>F#</code> <code>VB</code> <code>C#</code> <code>.NET tool</code></p>
     </td>
   </tr>
   <tr>
